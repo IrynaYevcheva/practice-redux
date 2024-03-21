@@ -23,6 +23,12 @@ Added
 - npm install react-router-dom
 - npm install axios
 - npm install --save clsx
+- npm install redux
+- npm install react-redux
+- npm install @redux-devtools/extension
+- npm i nanoid
+- npm install @reduxjs/toolkit
+
 ____________________________
 
 Options
@@ -30,6 +36,7 @@ Options
 - npm install yup
 - npm install react-loader-spinner --save
 - npm install react-hot-toast
+
 -->
 
 <!-- to create react vite template:
